@@ -28,9 +28,9 @@ body {
   font-size: 70px;
 }
 #suitButton {
-  text-align: right;
   font-size: 70px;
   margin-bottom: -15px;
+  transform: rotate(180deg);
 }
 .red {
   color: red;

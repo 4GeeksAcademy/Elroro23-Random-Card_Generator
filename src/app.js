@@ -39,7 +39,7 @@ window.onload = function() {
     let number = document.querySelector("#number");
     number.innerText = randomNumbers;
 
-    suitTop.classList.remove("red"); //// Eliminamos cualquier clase de color anterior.
+    suitTop.classList.remove("red"); // Eliminamos cualquier clase de color anterior.
     suitButton.classList.remove("red");
 
     if (randomSuit === "♥" || randomSuit === "♦") {
