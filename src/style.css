@@ -5,13 +5,14 @@ body {
   justify-content: center;
   align-items: center;
   display: flex;
+  background-color: green;
 }
-.row {
+.rowcard {
   height: 500px;
   width: 320px;
   background-color: white;
   border-radius: 25px;
-  border: solid 1px black;
+  border: solid 2px black;
 }
 .container {
   display: flex;
